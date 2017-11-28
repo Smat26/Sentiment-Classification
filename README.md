@@ -4,6 +4,14 @@ This is a script for the kaggle contest: https://www.kaggle.com/c/sentiment-anal
 
 The script attempts to classify the dataset that contains students comments about various faculty members available on ratemyprofessor.com website. The data has been further processed and is labeled with five unique sentiments: awesome, good, average, poor, awful.
 
+## Requirements
+You would need the following python packages: 
+
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+
 ## Usage
 
 Clone the repository
